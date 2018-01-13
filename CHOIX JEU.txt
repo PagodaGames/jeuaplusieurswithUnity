@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=qpXxcvS-g3g
+[Lien vers la vidéo de Brackeys sur l'utilisation de GitHub avec Unity]
+
+
+Choix du jeu :
+
+T'as un type de jeu que t'aimerais bien faire en particulier ?
+J'aimerais bien bosser sur un jeu avec un environnement généré aléatoirement
+(2D top down ? 2D side ?)
