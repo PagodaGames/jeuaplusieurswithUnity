@@ -5,5 +5,13 @@ https://www.youtube.com/watch?v=qpXxcvS-g3g
 Choix du jeu :
 
 T'as un type de jeu que t'aimerais bien faire en particulier ?
-J'aimerais bien bosser sur un jeu avec un environnement généré aléatoirement
+J'aimerais bien bosser sur un jeu avec un environnement généré procéduralement
 (2D top down ? 2D side ?)
+
+Pour quelle type d'utilisation ?
+sessions de jeu courtes ? longues ?
+
+
+
+Choix Thomas :
+Jeu en 2D top down, environnement procédural, sessions plutôt longues
