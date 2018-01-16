@@ -18,3 +18,4 @@ Jeu en 2D top down, environnement procédural, sessions plutôt longues
 
 Olivier(mon vrai nom):
 Si on part sur du 2D procédural en session longue, je propose un jeu de survie(le genre rogue-like, pas genre minecraft) dans un environnement procédural en 2D side où tu joue un personnage qui explore un vaste niveau labyrinthique en quête d'un boss à tuer et éventuellement une sortie. Un thème qui me plairait bien, ce serait le cyberpunk :P
+// COMMENTAIRE THOMAS : moi ça me va
