@@ -1,0 +1,15 @@
+Ici sera détaillée la répartition des tâches, avec l'avancement relatif à la tâche
+
+EX:
+=====
+Tâche : programmer la procéduralité du monde [tâche indépendante]
+Par : Thomas
+Avancement : 50%
+Commentaires : Difficultées blablabla liées au modèle
+=====
+Tâche : programmer le mouvement du personnage [tâche prioritaire]
+Par : Olivier
+Avancement : 60%
+Commentaires : Réutilisation du préfab du Standard Asset
+=====
+FIN EX
