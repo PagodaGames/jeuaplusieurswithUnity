@@ -11,6 +11,7 @@ J'aimerais bien bosser sur un jeu avec un environnement généré procéduralement
 Pour quelle type d'utilisation ?
 sessions de jeu courtes ? longues ?
 
+Petit mot d'Alexandre: "Coucou, je teste git Desktop"
 
 
 Choix Thomas :
