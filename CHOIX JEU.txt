@@ -12,6 +12,7 @@ Pour quelle type d'utilisation ?
 sessions de jeu courtes ? longues ?
 
 Petit mot d'Alexandre: "Coucou, je teste git Desktop"
+Bienvenue parmi nous !
 
 
 Choix Thomas :
@@ -29,3 +30,6 @@ Tout le monde est d'accord avec le choix d'Olivier ?
 Oui capitaine !
 Tu es sûr d'avoir ajouté Alexandre au git ? Sur cette adresse, il n'est marqué que 2 contributeurs, au lieu de 3 : https://github.com/PagodaGames/jeuaplusieurswithUnity
 Pour le code de déplacement, je peux réutiliser le code du jeu que je t'avais montré (à la base, je l'avais codé pour être en 2D side donc j'ai juste à modifier quelques lignes de code) Aussi, je me demandais: le gameplay est en 2D mais les assets, on les fait en 2D ou en 3D ? (je peux faire les deux mais  la 2D, c'est galère!)
+Sur et certain (il vient de faire son premier commit) !
+Pour le choix entre 2D et 3D pour les assets j'ai pas vraiment de préférences (à noter : le mélange des deux se fait (et c'est très beau (https://www.youtube.com/watch?v=pupdeq1MoVw)))
+Mais c'est vrai que c'est peut être plus simple la 3D pour commencer !
