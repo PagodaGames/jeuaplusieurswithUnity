@@ -1,6 +1,8 @@
-- modélisation 3D
 - génération environnement
 - déplacements personnage
+
+
+- modélisation 3D
 - petit fond sonore
 - objets/upgrades/inventaire
 - background -> IA
