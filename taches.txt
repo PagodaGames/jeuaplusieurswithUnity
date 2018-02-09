@@ -1,8 +1,7 @@
-- génération environnement
-- déplacements personnage
+- génération environnement => ça c'est pour Thomas
+- déplacements personnage => ça c'est pour Olivier
+- modélisation 3D => ça c'est pour Alexandre
 
-
-- modélisation 3D
 - petit fond sonore
 - objets/upgrades/inventaire
 - background -> IA
